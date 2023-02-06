@@ -16,4 +16,5 @@ public class userentity {
     @Id
     Integer userid;
 
+    
 }
