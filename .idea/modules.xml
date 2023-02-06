@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/backend/backend/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend/backend/backend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/포폴 백엔드.iml" filepath="$PROJECT_DIR$/.idea/포폴 백엔드.iml" />
-    </modules>
-  </component>
-</project>
