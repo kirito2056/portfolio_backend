@@ -16,6 +16,6 @@ public class usercontroller {
 
         String encodedPassword = passwordEncoder.encode(userentity.password);
         userentity.password = encodedPassword;
-        return "signup_succeed";x
+        return "signup_succeed";
     }
 }
