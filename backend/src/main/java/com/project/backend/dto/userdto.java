@@ -1,4 +1,4 @@
-package dto;
+package com.project.backend.dto;
 
 import lombok.AccessLevel;
 import lombok.Builder;
