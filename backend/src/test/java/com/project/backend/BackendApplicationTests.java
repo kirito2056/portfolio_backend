@@ -1,13 +1,17 @@
 package com.project.backend;
 
+import com.project.backend.repository.userrepository;
 import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 
-@SpringBootTest
+
+@DataJpaTest
 class BackendApplicationTests {
 
+    private userrepository repo;
     @Test
-    void contextLoads() {
+    void testCreateUser() {
+
     }
 
 }
