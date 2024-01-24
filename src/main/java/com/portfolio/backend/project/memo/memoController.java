@@ -1,4 +1,4 @@
-package com.portfolio.backend.project;
+package com.portfolio.backend.project.memo;
 
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @RequestMapping("/memo")
-public class MemoController {
+public class memoController {
     @GetMapping("/")
     public String getMemo() {
         System.out.println("메모장 읽어오기");
